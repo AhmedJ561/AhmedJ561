@@ -178,11 +178,11 @@ A merged productivity ecosystem combining task management and collaboration.
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/ahmed-jamil-a30975280/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:ahmedjmail561@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
