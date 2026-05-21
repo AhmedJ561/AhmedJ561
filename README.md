@@ -86,27 +86,27 @@ Currently Learning:
 <tr>
 <td width="50%">
 
-## 📱 TryFit
-AI-powered fitness application with workout tracking and smart recommendations.
+## 🎯 SkillSense
+A comprehensive skill assessment and learning platform with AI-powered recommendations.
 
 ### ⚡ Tech Used
-- Flutter
-- Firebase
-- Provider
-- REST APIs
+- React
+- TypeScript
+- NestJS
+- MongoDB
+- RESTful APIs
 
 </td>
 
 <td width="50%">
 
-## 🩺 Doctor Voice Assistant
-Voice-enabled medical assistant that generates SOAP notes using AI.
+## 💬 ChatFlow
+Real-time chat android application enabling seamless communication
 
 ### ⚡ Tech Used
-- React
-- NestJS
-- AI APIs
-- Speech Recognition
+- Java,xml
+- android studio
+- Firebase
 
 </td>
 </tr>
@@ -114,26 +114,46 @@ Voice-enabled medical assistant that generates SOAP notes using AI.
 <tr>
 <td width="50%">
 
-## 🌦️ Weather App
-Modern Flutter weather app using OpenWeatherMap API.
+## 🌦️ WeatherApp
+Modern Flutter weather app with live data and weather forecasting capabilities.
 
 ### ⚡ Features
-- Live Weather
-- Forecasts
+- Live Weather Data
+- Weather Forecasts
 - Responsive UI
-- API Integration
+- OpenWeatherMap API Integration
 
 </td>
 
 <td width="50%">
 
-## 🧠 Productivity Platform
-A merged productivity ecosystem combining task management and collaboration.
+## 📝 NoteApp
+Lightweight and intuitive note-taking application for quick thoughts and organization.
 
 ### ⚡ Features
-- Team Collaboration
-- Productivity Tracking
-- Modern Dashboard
+- Create & Manage Notes
+- Simple UI
+- Fast & Responsive
+- Local Storage
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 💼 My Portfolio
+Personal portfolio website showcasing projects, skills, and experience.
+
+### ⚡ Tech Used
+- React
+- TypeScript
+- Vite
+- Responsive Design
+
+</td>
+
+<td width="50%">
 
 </td>
 </tr>
