@@ -111,7 +111,6 @@ Express API with Prisma ORM, Dockerized, and set up with CI/CD for automated bui
 - GitHub Actions (CI/CD)
 
 
-[View on GitHub](https://github.com/AhmedJ561/express-prisma)
 
 </td>
 </tr>
