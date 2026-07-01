@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer | Mobile App Developer | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=React+%7C+Flutter+%7C+MERN+Stack+Developer;Building+Modern+Web+%26+Mobile+Applications;Passionate+About+AI+%26+Clean+UI%2FUX;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=React+%7C+Flutter+%7C+MERN+Stack+Developer;Building+Modern+We[...]" />
 
 <br/>
 
@@ -154,6 +154,16 @@ Personal portfolio website showcasing projects, skills, and experience.
 </td>
 
 <td width="50%">
+
+## 🐳 express-prisma
+Express API with Prisma ORM, Dockerized, and set up with CI/CD for automated builds and image publishing.
+
+### ⚡ Tech Used
+- Node.js & Express
+- Prisma (Postgres)
+- Docker & docker-compose
+- GitHub Actions (CI/CD)
+- Jest & Supertest (tests)
 
 </td>
 </tr>
