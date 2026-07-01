@@ -100,13 +100,17 @@ A comprehensive skill assessment and learning platform with AI-powered recommend
 
 <td width="50%">
 
-## 💬 ChatFlow
-Real-time chat android application enabling seamless communication
+## 🐳 express-prisma
+Express API with Prisma ORM, Dockerized, and set up with CI/CD for automated builds and image publishing.
 
 ### ⚡ Tech Used
-- Java,xml
-- android studio
-- Firebase
+- Node.js & Express
+- Prisma (Postgres)
+- Docker & docker-compose
+- GitHub Actions (CI/CD)
+- Jest & Supertest (tests)
+
+[View on GitHub](https://github.com/AhmedJ561/express-prisma)
 
 </td>
 </tr>
@@ -155,15 +159,13 @@ Personal portfolio website showcasing projects, skills, and experience.
 
 <td width="50%">
 
-## 🐳 express-prisma
-Express API with Prisma ORM, Dockerized, and set up with CI/CD for automated builds and image publishing.
+## 💬 ChatFlow
+Real-time chat android application enabling seamless communication
 
 ### ⚡ Tech Used
-- Node.js & Express
-- Prisma (Postgres)
-- Docker & docker-compose
-- GitHub Actions (CI/CD)
-- Jest & Supertest (tests)
+- Java,xml
+- android studio
+- Firebase
 
 </td>
 </tr>
