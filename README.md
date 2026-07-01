@@ -92,6 +92,7 @@ A comprehensive skill assessment and learning platform with AI-powered recommend
 ### ⚡ Tech Used
 - React
 - TypeScript
+- NextJS
 - NestJS
 - MongoDB
 - RESTful APIs
@@ -108,7 +109,7 @@ Express API with Prisma ORM, Dockerized, and set up with CI/CD for automated bui
 - Prisma (Postgres)
 - Docker & docker-compose
 - GitHub Actions (CI/CD)
-- Jest & Supertest (tests)
+
 
 [View on GitHub](https://github.com/AhmedJ561/express-prisma)
 
